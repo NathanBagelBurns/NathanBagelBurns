@@ -1,4 +1,5 @@
-Hey, I’m Pathwa! I’m interested in C, Unix/Linux, and Java(script).
-Don't have a soild form of contact yet but will update this when I do.
-I'm still learing and would love any advice on my projects.
-Thanks Pathwa.
+Mathimatics is the cure to bordem. 
+
+This GitHub page will hopefully serve as a small collection of my personal projects.
+Use, modify, or make fun of as you will.
+Like or don't like what you see? Feel free to drop me a line.
